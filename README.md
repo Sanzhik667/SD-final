@@ -6,4 +6,4 @@ python manage.py runserver
 npm install -g @angular/cli
 npm install
 ng serve
-Скопировать адрес, вставить
+Скопировать адрес, вставить, запустить
